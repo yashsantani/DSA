@@ -1,0 +1,1 @@
+{"name":"Local: p_bfs","url":"d:\\DSA\\graphs\\p_bfs.cpp","tests":[{"id":1655530473678,"input":"6 5\n4 1\n4 2\n4 3\n1 6\n2 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\graphs\\p_bfs.cpp","group":"local","local":true}
